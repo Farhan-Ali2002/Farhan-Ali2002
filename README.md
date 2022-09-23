@@ -27,4 +27,8 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FarhanAli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-87b98522b/) [![Twitter Badge](https://img.shields.io/badge/-FarhanAli-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Farhan__2002)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 
