@@ -23,7 +23,7 @@
 
 - :seedling: Currently Learning and working in React, Node, Express and React-Native.
 
-- :zap: In my free time, I like to code and Read books.
+- :zap: In my free time, I like to code, Read books and contribute to Open Source.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FarhanAli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-87b98522b/)
 
