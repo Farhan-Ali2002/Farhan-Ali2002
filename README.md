@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-  I am a Computer Science student at National University of Computer and Emerging Sciences <img src="http://imgur.com/gallery/7KH8RLQ" width="30">
+  I am a Computer Science student at National University of Computer and Emerging Sciences <img src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif"/>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
