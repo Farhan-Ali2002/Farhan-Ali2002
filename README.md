@@ -26,11 +26,11 @@
   I am a Computer Science student at National University of Computer and Emerging Sciences <img src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" width="30"/>
 - :telescope: Aiming to become a Full stack developer.
 
-- :seedling: Currently Learning and working in React, Node, Express and React-Native.
+- :seedling: Currently Learning and working in Flutter.
 
 - :zap: In my free time, I like to code, Read books and contribute to Open Source.
 
-- 🥅 learning flutter developement.
+- 🥅 React, Node, Express and React-Native.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FarhanAli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-87b98522b/) [![Twitter Badge](https://img.shields.io/badge/-FarhanAli-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Farhan__2002)
 
