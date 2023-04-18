@@ -3,14 +3,14 @@
   <div id="badges">
   
   <a href="https://www.linkedin.com/in/farhan-ali-87b98522b/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=purple" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
   <a href="https://twitter.com/Farhan__2002">
-    <img src="https://img.shields.io/badge/Twitter-darkgreen?style=for-the-badge&logo=twitter&logoColor=purple" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-darkgreen?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Farhan-Ali2002&style=for-the-badge&color=darkgreen" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Farhan-Ali2002&style=for-the-badge&color=black" alt=""/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600" height="300"/>
