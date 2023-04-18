@@ -35,6 +35,11 @@
 
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="400" height="100"/>
+  <h1>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -61,8 +66,6 @@
 
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhan-Ali2002&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="400" height="100"/>
-  <h1>
+
 
 
