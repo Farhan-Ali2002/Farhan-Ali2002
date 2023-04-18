@@ -30,9 +30,9 @@
 
 - :zap: In my free time, I like to code, Read books and contribute to Open Source.
 
-- 🥅 React, Node, Express and React-Native.
+- 🥅 Full stack.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FarhanAli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-87b98522b/) [![Twitter Badge](https://img.shields.io/badge/-FarhanAli-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Farhan__2002)
+
 
 ---
 
