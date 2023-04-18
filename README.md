@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif&style=border-radius:50%" width="100"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
   <div id="badges">
   
   <a href="https://www.linkedin.com/in/farhan-ali-87b98522b/">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Farhan-Ali2002&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Farhan-Ali2002&style=for-the-badge&color=green" alt=""/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600" height="300"/>
