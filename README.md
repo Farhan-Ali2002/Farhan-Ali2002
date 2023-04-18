@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-darkgreen?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Farhan-Ali2002&style=for-the-badge&color=black" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Farhan-Ali2002&style=for-the-badge&color=dark" alt=""/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600" height="300"/>
