@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-<div align="center">
+
   I am a Computer Science student at National University of Computer and Emerging Sciences <img src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" width="30"/>
 - :telescope: Aiming to become a Full stack developer.
 
@@ -34,7 +34,7 @@
 - 🥅 Full stack.
 
 
-</div>
+
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="400" height="200"/>
