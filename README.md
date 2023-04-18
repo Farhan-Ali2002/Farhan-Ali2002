@@ -60,3 +60,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Ali2002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhan-Ali2002&show_icons=true&theme=radical)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="400" height="100"/>
+  <h1>
+
+
