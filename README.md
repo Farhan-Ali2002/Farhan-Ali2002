@@ -36,7 +36,7 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="400" height="100"/>
+  <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="400" height="200"/>
   <h1>
 
 ---
