@@ -90,7 +90,7 @@ Contributed to Ward E-commerce and Walking Challenge projects using HTML, CSS, J
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Farhan-Ali2002&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Farhan-Ali2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br /><br />
 
