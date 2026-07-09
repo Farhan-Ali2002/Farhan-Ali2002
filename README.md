@@ -90,15 +90,15 @@ Contributed to Ward E-commerce and Walking Challenge projects using HTML, CSS, J
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Farhan-Ali2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Farhan-Ali2002&theme=dark&hide_border=true" alt="GitHub Streak" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Farhan-Ali2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Farhan's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan-Ali2002&theme=tokyonight" alt="Profile Summary" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Ali2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farhan-Ali2002&theme=tokyonight" alt="Top Languages" />
 
 </div>
 ---
