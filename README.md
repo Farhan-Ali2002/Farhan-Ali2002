@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Farhan Ali</h1>
-  <h3>Associate Product Developer | .NET Full-Stack Developer | CS Graduate</h3>
+  <h3> Product Developer | .NET Full-Stack Developer | CS Graduate</h3>
 
   <a href="https://www.linkedin.com/in/farhan-ali-87b98522b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
