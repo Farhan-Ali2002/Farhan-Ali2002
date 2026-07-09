@@ -86,16 +86,21 @@ Contributed to Ward E-commerce and Walking Challenge projects using HTML, CSS, J
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhan-Ali2002&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Farhan-Ali2002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Ali2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
 
+  <img src="https://streak-stats.demolab.com?user=Farhan-Ali2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Farhan-Ali2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Farhan's GitHub Stats" />
+
+  <br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Ali2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 ---
 
 <div align="center">
